@@ -250,7 +250,7 @@ numeroIntAleatorio = parseInt(Math.random() * 1000) + 1;
 console.log(numeroIntAleatorio);
  ```
 
-# Desafio
+# Desafio del curso de lógica de programación #5
  ```javascript
 //Variables
 let numeroMaximoPosible = 100;
